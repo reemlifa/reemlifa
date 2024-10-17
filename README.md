@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0udofbdm6jmpre4jyxwvcsb7x)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0udofbdm6jmpre4jyxwvcsb7xcount=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemlifa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **reemlifa/reemlifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
