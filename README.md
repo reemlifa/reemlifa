@@ -1,4 +1,6 @@
-trsut this will be customized more soon 🙏🙏
+Hi! My name is Reem - 
+- senior in high school, based in NYC
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0udofbdm6jmpre4jyxwvcsb7x&count=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemlifa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
