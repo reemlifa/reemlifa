@@ -7,7 +7,7 @@ I am a 17 year old senior at Stuyvesant High School.
 I've been coding for about a year now, and it's helped me express my creativity and combine my experience in politics and advocacy to help more people on a large scale impact.
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [Reem Khalifa](http://reemlifa.github.io)
+* 🖥️  See my portfolio at [Reem Khalifa](http://reemkhalifa.xyz)
 * ✉️  You can contact me at [reemkhalifa110@gmail.com](mailto:reemkhalifa110@gmail.com)
 * 🧠  I'm learning Cybersecurity frameworks with Python through a Girls Who Code Course!
 * 🤝  I'm open to collaborating on new startups that aim to help underserved communities.
